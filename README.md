@@ -1,21 +1,23 @@
 <h1 align="center">ZAP</h1>
-<h3 align="center">Software Developer | Reverse Engineering | AI Research</h3>
+<h3 align="center">Low-Level Software Engineer | Reverse Engineering | AI Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Research%20%26%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Reverse%20Engineering-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Anti--Cheat%20Systems-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20Research-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Kernel%20%26%20SMM-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Anti--Cheat%20%26%20Security-black?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔬 Career focused on **research and deep technical analysis**
-- 🛠️ Strong background in **low-level systems and reverse engineering**
-- 🤖 Focused on **Artificial Intelligence and algorithm design**
-- 🛡️ Interested in **anti-cheat systems and behavioral detection**
-- ⚡ Analytical mindset & fast learner
+- 🔬 Career focused on **deep systems research**
+- 🛠️ Experience in **Kernel-mode development**
+- 🧬 Experience developing at **SMM (System Management Mode) level**
+- 🔎 Reverse Engineering & internal architecture analysis
+- 🤖 Artificial Intelligence & predictive algorithm design
+- 🛡️ Anti-cheat systems & behavioral detection research
+- ⚡ Highly active developer (majority of work in private repositories)
 
 ---
 
@@ -35,46 +37,52 @@
 
 ---
 
-## 🔬 Areas of Expertise
+## 🔬 Specialized Engineering Domains
 
-- Reverse Engineering
-- Algorithms & Data Structures
-- Artificial Intelligence
-- Systems Programming
-- Performance Optimization
-- Software Security Concepts
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Kernel Driver Development (Ring 0)
+- SMM Firmware-Level Research
+- Reverse Engineering (User & Kernel space)
+- Anti-Cheat Architecture & Evasion Analysis
+- AI-driven detection systems
+- Heuristic & predictive algorithms
+- Systems optimization & memory analysis
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Activity
 
-- AI-driven systems
-- Heuristic and predictive algorithms
-- Low-level architecture analysis
-- Anti-cheat research & detection models
+> Most development activity occurs in private repositories.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (yes, this is the mini-game)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+*(Requires enabling GitHub Action once — I can give you the workflow if you want.)*
 
 ---
 
 ## 🧭 Engineering Philosophy
 
-> Understand the system at its lowest level.  
-> Build with precision. Optimize with purpose.
+> Understand the system at its lowest execution level.  
+> Control memory. Control execution. Control behavior.
 
 ---
 
-## 📫 Connect
+## 🎯 Current Focus
 
-Open to collaboration on technically challenging projects, research, and system-level engineering.
+- AI-powered behavioral detection
+- Low-level architecture research
+- Kernel & firmware interaction models
+- Secure system design
