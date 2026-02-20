@@ -1,4 +1,4 @@
-<h1 align="center">Diego Rocha</h1>
+<h1 align="center">ZAP</h1>
 <h3 align="center">Software Developer | Reverse Engineering | AI Research</h3>
 
 <p align="center">
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-x86/x64-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic%206.0-5C2D91?style=for-the-badge"/>
 </p>
 
 ---
