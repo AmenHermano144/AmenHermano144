@@ -77,4 +77,4 @@
 
 ## 📫 Connect
 
-Open to collaboration on technically challenging projects, research, and system-level engineering.
+Open to collaboration on technically challenging projects, research, and system-level engineering..
