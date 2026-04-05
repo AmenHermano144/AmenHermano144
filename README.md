@@ -29,7 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDA-4B275F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDA-purple?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ghidra-BF0A30?style=flat-square"/>
   <img src="https://img.shields.io/badge/x64dbg-303030?style=flat-square"/>
   <img src="https://img.shields.io/badge/WinDbg-0078D4?style=flat-square&logo=windows&logoColor=white"/>
