@@ -2,7 +2,7 @@
 
 # ZAP
 
-**Software Developer | Security Researcher**
+**Software Developer | Security Researcher | Systems analyst**
 
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/241261260455411713)
 
